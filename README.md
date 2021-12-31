@@ -1,5 +1,7 @@
 # Hugo.io - Classic Theme
 
+> Made this fork only for using as a submodule in my blog source-code, any changes here won't be forwarded to `goodroot/hugo-classic`.
+
 Classic is a stylized fork of the **XMin** theme, written by [Yihui Xie](https://yihui.name).
 
 Provides `highlight.js` for syntax highlighting, emoji support, Inter and optional **_darkmode_**.
