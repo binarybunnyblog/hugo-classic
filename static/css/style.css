@@ -37,7 +37,7 @@
 
 
 /* Light mode */
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
     blockquote {
       background: #f9f9f9;
     }
